@@ -1,4 +1,4 @@
-@@ -1 +1,18 @@
+
 # Binary-Search-Tree-Projesi
 
 
